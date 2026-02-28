@@ -1,6 +1,43 @@
 <h1 align="center">MasterProgramerCPU</h1>
 <p align="center"><strong>Peter-style chaos + Hacker-grade execution</strong></p>
 
+<table align="center">
+  <tr>
+    <td>
+<pre>
+         .-""""-.
+       .'  _  _  '.
+      /   (o)(o)   \
+     |      __      |
+     |   .-"__"-.   |
+     |  /  /  \  \  |
+      \ |  \__/  | /
+       \ \  __  / /
+        '.`----`.'
+          /|  |\
+         /_|__|_\
+           /  \
+</pre>
+    </td>
+    <td>
+<pre>
+masterprogramercpu@quahog
+-------------------------
+OS...........: GitHub Profile README
+Host.........: MasterProgramerCPU/MasterProgramerCPU
+Role.........: Full-Stack Builder
+Theme........: Peter Chaos + Hacker Ops
+Shell........: bash / zsh
+Languages....: JavaScript, TypeScript, Python
+Stack........: Node.js, Linux, GitHub Actions
+Focus........: Automation, tooling, clean architecture
+Status.......: Shipping weird + useful software
+Contact......: github.com/MasterProgramerCPU
+</pre>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=18&duration=2500&pause=800&color=72FF72&center=true&vCenter=true&width=900&lines=quahog-root-access%3E+online;sudo+ship+--fast+--clean;bird-is-the-wordlist%2C+security-is-the-rule;building+cool+stuff+with+terminal+discipline" alt="Typing intro" />
 </p>
