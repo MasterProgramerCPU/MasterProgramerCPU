@@ -22,13 +22,8 @@
 - Fan-style theme only, no official show assets used.
 
 ## Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+<p align="center">
+  <img alt="Animated tech stack widget" src="https://raw.githubusercontent.com/MasterProgramerCPU/MasterProgramerCPU/main/tech_stack.svg" />
 </p>
 
 ## Terminal Feed

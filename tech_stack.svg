@@ -1,0 +1,82 @@
+<svg width="1100" height="240" viewBox="0 0 1100 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated tech stack">
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1100" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A131C"/>
+      <stop offset="1" stop-color="#0E1D29"/>
+    </linearGradient>
+    <linearGradient id="chipBg" x1="0" y1="0" x2="320" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111C26"/>
+      <stop offset="1" stop-color="#132633"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72FF72" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#72FF72" stop-opacity="0.26"/>
+      <stop offset="0.55" stop-color="#72FF72" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#72FF72" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="240" rx="18" fill="url(#panelBg)"/>
+  <rect x="16" y="16" width="1068" height="208" rx="14" fill="#0B141D" stroke="#243645"/>
+
+  <text x="36" y="49" fill="#74FF74" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="19">tech_stack://live</text>
+  <text x="36" y="72" fill="#9AB2A3" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="13">animated module feed</text>
+
+  <g transform="translate(28 92)">
+    <animateTransform attributeName="transform" type="translate" values="28 92; 28 90; 28 92; 28 94; 28 92" dur="3.2s" repeatCount="indefinite"/>
+    <rect width="320" height="52" rx="12" fill="url(#chipBg)" stroke="#2E465A"/>
+    <circle cx="22" cy="26" r="5" fill="#72FF72">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="33" fill="#D9E7D8" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="20">GO</text>
+  </g>
+
+  <g transform="translate(390 92)">
+    <animateTransform attributeName="transform" type="translate" values="390 92; 390 94; 390 92; 390 90; 390 92" dur="3s" repeatCount="indefinite"/>
+    <rect width="320" height="52" rx="12" fill="url(#chipBg)" stroke="#2E465A"/>
+    <circle cx="22" cy="26" r="5" fill="#72FF72">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.3s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="33" fill="#D9E7D8" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="20">PYTHON</text>
+  </g>
+
+  <g transform="translate(752 92)">
+    <animateTransform attributeName="transform" type="translate" values="752 92; 752 90; 752 92; 752 94; 752 92" dur="2.8s" repeatCount="indefinite"/>
+    <rect width="320" height="52" rx="12" fill="url(#chipBg)" stroke="#2E465A"/>
+    <circle cx="22" cy="26" r="5" fill="#72FF72">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.4s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="33" fill="#D9E7D8" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="20">SQL</text>
+  </g>
+
+  <g transform="translate(28 156)">
+    <animateTransform attributeName="transform" type="translate" values="28 156; 28 154; 28 156; 28 158; 28 156" dur="3.4s" repeatCount="indefinite"/>
+    <rect width="320" height="52" rx="12" fill="url(#chipBg)" stroke="#2E465A"/>
+    <circle cx="22" cy="26" r="5" fill="#72FF72">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" begin="0.15s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="33" fill="#D9E7D8" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="20">LINUX</text>
+  </g>
+
+  <g transform="translate(390 156)">
+    <animateTransform attributeName="transform" type="translate" values="390 156; 390 158; 390 156; 390 154; 390 156" dur="3.1s" repeatCount="indefinite"/>
+    <rect width="320" height="52" rx="12" fill="url(#chipBg)" stroke="#2E465A"/>
+    <circle cx="22" cy="26" r="5" fill="#72FF72">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="33" fill="#D9E7D8" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="20">GIT</text>
+  </g>
+
+  <g transform="translate(752 156)">
+    <animateTransform attributeName="transform" type="translate" values="752 156; 752 154; 752 156; 752 158; 752 156" dur="2.9s" repeatCount="indefinite"/>
+    <rect width="320" height="52" rx="12" fill="url(#chipBg)" stroke="#2E465A"/>
+    <circle cx="22" cy="26" r="5" fill="#72FF72">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.1s" begin="0.25s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="33" fill="#D9E7D8" font-family="'Cascadia Code', 'JetBrains Mono', monospace" font-size="20">BASH</text>
+  </g>
+
+  <rect x="-240" y="16" width="220" height="208" fill="url(#scan)">
+    <animate attributeName="x" values="-240;1120" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
