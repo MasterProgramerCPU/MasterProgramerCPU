@@ -13,12 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=18&duration=2500&pause=800&color=72FF72&center=true&vCenter=true&width=900&lines=quahog-root-access%3E+online;sudo+ship+--fast+--clean;bird-is-the-wordlist%2C+security-is-the-rule;building+cool+stuff+with+terminal+discipline" alt="Typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Hacker%20Mode-0f172a?style=for-the-badge&logo=gnubash&logoColor=72ff72&labelColor=020617" alt="Hacker Mode" />
-  <img src="https://img.shields.io/badge/Vibe-Quahog%20Ops-7abf49?style=for-the-badge&logoColor=000000" alt="Quahog Ops" />
-  <img src="https://img.shields.io/badge/Status-Shipping-1f2937?style=for-the-badge&logo=githubactions&logoColor=72ff72" alt="Shipping" />
-</p>
-
 ---
 
 ## About Me
@@ -29,12 +23,12 @@
 
 ## Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
 </p>
 
 ## Terminal Feed
@@ -49,11 +43,7 @@ root@quahog:~# motto
 "Chaos in ideas. Precision in execution."
 ```
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterProgramerCPU&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=00000000" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterProgramerCPU&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000" height="160" alt="Top languages" />
-</p>
+## GitHub Status
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MasterProgramerCPU&theme=chartreuse-dark&hide_border=true&background=00000000" alt="GitHub streak" />
